@@ -11,8 +11,8 @@
 <p align=center> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=yxqsnz&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
 <p align=center>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yxqsnz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yxqsnz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xsamuelxz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xsamuelxz&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
 <p>
     
 ##
