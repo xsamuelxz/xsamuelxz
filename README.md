@@ -1,7 +1,7 @@
 <p align=center>
-    <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/> 
+    <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif "/> 
     <br/>
-    <img src="https://gpvc.arturio.dev/yxqsnz"/> 
+    <img src="https://gpvc.arturio.dev/xsamuelxz"/> 
     <br>
     <br>
 </p>
